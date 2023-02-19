@@ -25,7 +25,7 @@ follow the below steps to Create and explore the data.
 7. After creating Crawlers for all the datasets. Refresh the data in Athena to Query Processing. output look like this !
 [Screenshot 2023-02-19 at 12 47 29 pm](https://user-images.githubusercontent.com/100506830/219909424-299b2395-4323-47fd-852f-d6378080c150.png)
 
-8.Create data Models on. Draw.io using the Athena Query Editor to Generate DDL for the tables. the Data Model will be like this :
+8. Create data Models on. Draw.io using the Athena Query Editor to Generate DDL for the tables. the Data Model will be like this :
 
 ![Screenshot 2023-02-19 at 12 37 45 pm](https://user-images.githubusercontent.com/100506830/219909457-07619868-fab9-44d6-8d1f-7e8257f10c91.png)
 
